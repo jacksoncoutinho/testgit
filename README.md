@@ -5,4 +5,4 @@ test git commands @copyright
 #text aded 5:25
 #text aded 5 May +++
 
-thest
+new line added removing old
